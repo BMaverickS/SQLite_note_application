@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite_note_application</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+
+</resources>
